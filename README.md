@@ -1,0 +1,2 @@
+# Analysis-of-PN-Junction-Diode-V-I-Characteristics-and-Load-line-using-MATLAB.
+The main objective of this project to analyze the V-I characteristics of PN junction diode. How diode works in forward biased and current voltage exponentially relationship. This project also demonstrate the Q point (Quiescent point) on the Load line. This project also tells about behaviour of diode on different parameters.
